@@ -1,6 +1,6 @@
 Fraud Detection with Machine Learning On Banksim Payment Transaction Dataset - ( Dataset Name bs140513_032310)
 
-Due to fraudulent transactions businesses lose millions of dollars each year and same behavior has been observed across many different fields such as e-commerce, UPI payment (digital banking), healthcare and regular banking systems.
+`Due to fraudulent transactions businesses lose millions of dollars each year and same behavior has been observed across many different fields such as e-commerce, UPI payment (digital banking), healthcare and regular banking systems.`
 
 Frauds can be detected via Automated detection system for that there are different approaches including rule based approaches and machine learning.
 This repository uses the latter approach for classification of fraudulent transactions. The synthetically generated dataset consists of payments from various customers made in different time periods and with different amounts 
@@ -54,6 +54,6 @@ Confusion Matrix of K-Nearest Neigbours:
   [   706 175527]]
  ****************************************************************************** 
 
-Original paper Reference is given below and also i have uploaded pdf (EMSS2014-Final) for your reference::
+`Original paper Reference is given below and also i have uploaded pdf (EMSS2014-Final) for your reference::`
 
 Lopez-Rojas, Edgar Alonso ; Axelsson, Stefan Banksim: A bank payments simulator for fraud detection research Inproceedings 26th European Modeling and Simulation Symposium, EMSS 2014, Bordeaux, France, pp. 144–152, Dime University of Genoa, 2014, ISBN: 9788897999324. https://www.researchgate.net/publication/265736405_BankSim_A_Bank_Payment_Simulation_for_Fraud_Detection_Research
